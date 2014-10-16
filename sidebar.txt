@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byi:home|Door43 (byi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byi|d43-byi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byi/archive/master.zip|d43-byi.zip]]
+
+**Recent Changes**
+{{changes>ns = byi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byi|Ethnologue data]]
+
